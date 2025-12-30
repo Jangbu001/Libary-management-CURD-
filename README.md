@@ -28,7 +28,6 @@ A modern, web-based Library Management System developed as a **Standard XII Scie
     * Create a database named `libary_management`.
     * Import the provided SQL file (if available) or create a table named `books` with columns: `id`, `title`, `author`, `email`, `phone`, `address`, `isbn`.
 
-    * ```bash
 -- 1. Create the database 
 
 CREATE DATABASE IF NOT EXISTS library_management; 
@@ -59,7 +58,7 @@ VALUES
 ('Muna Madan', 'Laxmi Prasad Devkota', 'info@sajhaprakashan.com.np', '9841234567', 'Pulchowk, Lalitpur', '978-9937-1'), 
 ('Seto Bagh', 'Diamond Shumsher Rana', 'diamond.shumsher@nepal.com', '9851012345', 'Thamel, Kathmandu', '978-9937-2'), 
 ('Palpasa Café', 'Narayan Wagle', 'narayan.wagle@kantipur.com', '9803334444', 'Baneshwor, Kathmandu', '978-9937-3'), 
-('Karnali Blues', 'Buddhisagar', 'buddhisagar@writer.com.np', '9812223334', 'Maitighar, Kathmandu', '978-9937-4'); ```
+('Karnali Blues', 'Buddhisagar', 'buddhisagar@writer.com.np', '9812223334', 'Maitighar, Kathmandu', '978-9937-4');
 
 3.  **Configure Connection**:
     * Ensure your database credentials in `index.php` (and other files) match your local environment (usually `root` and no password).
