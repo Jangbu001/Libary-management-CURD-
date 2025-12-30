@@ -1,4 +1,4 @@
-# 📚 Venus Library Management System
+# 📚 Library Management System
 
 A modern, web-based Library Management System developed as a **Standard XII Science Project** for Venus National College. This application provides a full CRUD (Create, Read, Update, Delete) interface for managing book inventories.
 
