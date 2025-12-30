@@ -21,7 +21,7 @@ A modern, web-based Library Management System developed as a **Standard XII Scie
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/Jangbu001/Libary-management-CURD.git](https://github.com/Jangbu001/Libary-management-CURD.git)
+    git clone [https://github.com/Jangbu001/Libary-management-CURD-.git](https://github.com/Jangbu001/Libary-management-CURD-.git)
     ```
 2.  **Setup Database**:
     * Open PHPMyAdmin.
